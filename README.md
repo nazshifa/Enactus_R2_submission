@@ -1,2 +1,1 @@
-# Enactus_R2_submission
-Website Landing page
+# Enactus Tech Project Round 2: Shifa Naz, 2024UCS1654

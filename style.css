@@ -34,15 +34,7 @@
 
 }
 
-/* .logo {
-    color: #ff7200;
-    font-size: 35px;
-    font-family:Arial, Helvetica, sans-serif;
-    padding-left: 20px;
-    float: left;
 
-
-} */
 
 .menu {
     width: 400px;
@@ -141,10 +133,6 @@ ul li {
     justify-content: space-between;
 }
 
-/* .content .aspire {
-    display: flex;
-    justify-content: space-between;
-} */
 
 .content .par {
     padding-left: 20px;
@@ -299,11 +287,6 @@ ul li {
     
 }
 
-/* #divgrp {
-    display: flex; */
-    /* justify-content:center; */
-/* 
-} */
 
 .aspire{
     height: 450px;
@@ -315,18 +298,6 @@ ul li {
     transition: 0.4s ease-in-out;
 
 }
-
-/* .venue {
-    height: 450px;
-    width:300px;
-    border: 2px solid gray;
-    margin-top: 40px;
-    box-shadow: 2px 2px olive, -1em 0 .4em olive;
-    /* background-image: url("asset/aspireimg.png"); */
-    /* transition: 0.4s ease-in-out;
-
-}  */
-
 
 .aspire:hover {
     box-shadow: 4px 4px olive, -1em 0 .4em olive;
